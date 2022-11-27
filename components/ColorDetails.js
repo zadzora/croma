@@ -13,6 +13,7 @@ import Touchable from "react-native-platform-touchable";
 
 import Color from "pigment/full";
 
+//
 export const ColorDetail = ({ color }) => {
   const [copyiedIndex, setCopyiedIntex] = useState(-1);
   const styles = StyleSheet.create({

@@ -8,6 +8,7 @@ import * as Animatable from 'react-native-animatable';
 
 
 //
+
 const VerticalLine = function () {
   return <View style={{ width: 1, backgroundColor: '#cacbcc' }}></View>
 }
